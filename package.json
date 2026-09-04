@@ -10,8 +10,7 @@
     "postinstall": "prisma generate"
   },
   "dependencies": {
-    "tailwindcss-animate": "^1.0.7",
-    "@clerk/nextjs": "^5.7.5",
+    "@clerk/nextjs": "^6.10.0",
     "@clerk/themes": "^2.1.0",
     "@hookform/resolvers": "^3.9.0",
     "@prisma/client": "^5.22.0",
@@ -39,11 +38,12 @@
     "react-spinners": "^0.14.1",
     "sonner": "^1.5.0",
     "tailwind-merge": "^2.5.2",
+    "tailwindcss-animate": "^1.0.7",
     "zod": "^3.23.8"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
-    "eslint": "^8",
+    "eslint": "8.57.0",
     "eslint-config-next": "14.2.10",
     "postcss": "^8.4.47",
     "prisma": "^5.22.0",
